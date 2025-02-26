@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Giga:wght@100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+body{
+    background: #c30f0f;
+    color: #000;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    text-align: center;
+}
+div{
+    max-width: 1000px;
+}
+img{
+    display: block;
+    margin: auto;
+}
+p{
+    text-align: justify;
+}
