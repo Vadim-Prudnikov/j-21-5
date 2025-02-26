@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: aquamarine;
+}
+.comics{
+    width: 150px;
+    margin: 150px;
+    border: 150px;
+    border-color: black;
+    box-shadow: 5px;
+}
+table,tr,td{
+    border: 1px solid black;
+    text-align: center;
+    vertical-align: middle;
+    border-collapse: collapse;
+}
+h6{
+    text-align: center;
+}
